@@ -52,7 +52,7 @@ The `Automation` folder contains scripts for automating specific tests. Refer to
    - **Purpose:** To manually verify the functionality of the application by following the test cases.
 
 ### 2. **Bug Tracking**
-   - **Tools:** JIRA, Bugzilla, or GitHub Issues.
+   - **Tools:** JIRA,  or GitHub Issues.
    - **Purpose:** To log, track, and manage bugs found during testing.
 
 ### 3. **Automation Testing**
