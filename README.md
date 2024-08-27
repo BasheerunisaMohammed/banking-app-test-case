@@ -45,6 +45,31 @@ The `Exploratory_Testing` folder contains a summary of the exploratory testing c
 
 ### Running Automation Scripts
 The `Automation` folder contains scripts for automating specific tests. Refer to the `README.md` in the `Automation` folder for instructions on how to run the scripts.
+## Tools Used for Testing
+
+### 1. **Manual Testing**
+   - **Tools:** Excel or Google Sheets for documenting test cases and results.
+   - **Purpose:** To manually verify the functionality of the application by following the test cases.
+
+### 2. **Bug Tracking**
+   - **Tools:** JIRA, Bugzilla, or GitHub Issues.
+   - **Purpose:** To log, track, and manage bugs found during testing.
+
+### 3. **Automation Testing**
+   - **Tools:** Selenium WebDriver with Python.
+   - **Purpose:** To automate the testing of the login functionality and potentially other repetitive tasks.
+
+### 4. **Exploratory Testing**
+   - **Tools:** The application itself, along with any required browser developer tools (e.g., Chrome DevTools) for inspecting elements, checking console errors, etc.
+   - **Purpose:** To explore the application and identify usability, security, and performance issues without predefined test cases.
+
+### 5. **Performance Testing (Optional)**
+   - **Tools:** JMeter, LoadRunner, or browser-based performance profiling tools.
+   - **Purpose:** To test the application’s response time under normal and heavy load conditions.
+
+### 6. **Security Testing (Optional)**
+   - **Tools:** OWASP ZAP, Burp Suite, or any browser security plugins.
+   - **Purpose:** To identify potential security vulnerabilities in the application.
 
 ## Contributing
 
